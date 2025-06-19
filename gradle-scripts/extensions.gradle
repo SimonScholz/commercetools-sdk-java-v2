@@ -44,7 +44,7 @@ ext {
     ]
 
     graphql = [
-            java: 'com.graphql-java:graphql-java:19.11'
+            java: 'com.graphql-java:graphql-java:22.2'
     ]
     awaitility = [
             awaitility: 'org.awaitility:awaitility:4.3.0',
